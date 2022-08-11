@@ -236,8 +236,7 @@
 {238, "September Song", "JP Cooper", "https://p.scdn.co/mp3-preview/3f3a8f7c45b5392d702b9c94b4cf8898dcb6ca19?cid=162b7dc01f3a4a2ca32ed3cec83d1e02", "https://api.spotify.com/v1/tracks/0zbzrhfVS9S2TszW3wLQZ7"},
 {239, "Balonku", "Uwa and Friends", "https://p.scdn.co/mp3-preview/620ebe8457d072ba6505ea5f803d4c7d32e334a4?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/6R3XCf9YvyXIRhUeBBsolp"},
 {240, "Iwak Peyek", "Trio Macan", "https://p.scdn.co/mp3-preview/0efe290bd2c869d2363dd4eece16ed40a268e476?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/7brOXCz2HIBjQ90xE0ApK9"},
-{241, "Alamat Palsu", "Ayu Ting Ting", "https://p.scdn.co/mp3-preview/0ec186c61d630cb459bd982689943ef5a0ccced4?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/3gGOO9Y84eLdgi5FSSrQQp"};
-INSERT INTO `data` {`id`, `judul`, `artis`, `url`, `uspotify`} VALUES
+{241, "Alamat Palsu", "Ayu Ting Ting", "https://p.scdn.co/mp3-preview/0ec186c61d630cb459bd982689943ef5a0ccced4?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/3gGOO9Y84eLdgi5FSSrQQp"},
 {242, "Bunga Terakhir", "Bebi Romeo", "https://p.scdn.co/mp3-preview/fc290e1059e05d960cbfb5748b9e25f8c922ac6b?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/0Sc9gR17FPe35uRtVe1rD3"},
 {243, "Sayap - Sayap Patah", "Dewa", "https://p.scdn.co/mp3-preview/a91c18bfdc9c442cbe00e2d93b1f6ed5d1d18571?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/4pJKLwSWPqkkpCZaQ5OPiz"},
 {244, "Cinta Putih", "Kerispatih", "https://p.scdn.co/mp3-preview/5fa0e6205a2c0a53d55c9fee11865a688a21d070?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/4G7Vk246YhAAqDfFq5wQ6z"},
@@ -474,8 +473,7 @@ INSERT INTO `data` {`id`, `judul`, `artis`, `url`, `uspotify`} VALUES
 {475, "Kejujuran Hati", "Kerispatih", "https://p.scdn.co/mp3-preview/412813cec1793a48b906dbf2763d7a4fd9556310?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/2Uq9cNCO87GGjoN6OyUysS"},
 {476, "R.I.P {Rhyme In Peace}", "Bondan Prakoso", "https://p.scdn.co/mp3-preview/deee9b26011aa0c6f864c2f30013fd89422f69d6?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/7srCrWQW2U9cCnhnVEEx6j"},
 {477, "Aku dan Dirimu", "Ari Lasso", "https://p.scdn.co/mp3-preview/e9d0ac67dc8883e25a0321451be8821d9f296931?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/58ZJzgPhExb5KhrEhY450V"},
-{478, "Bertahan", "Five Minutes", "https://p.scdn.co/mp3-preview/826b9a5301fdf51038fca92e597eace99014bb34?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/2GAkH99gIlIiv4AlHx873D"};
-INSERT INTO `data` {`id`, `judul`, `artis`, `url`, `uspotify`} VALUES
+{478, "Bertahan", "Five Minutes", "https://p.scdn.co/mp3-preview/826b9a5301fdf51038fca92e597eace99014bb34?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/2GAkH99gIlIiv4AlHx873D"},
 {479, "Yank", "Wali", "https://p.scdn.co/mp3-preview/4392833afd6b5d0cce5babaf038983d594eb0c36?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/3RR5OgrNTOsjmUmkQ1ocuK"},
 {480, "Saat Bahagia", "Ungu", "https://p.scdn.co/mp3-preview/e262a2c8010cb54d57287fe1cb6c614f7dafe9e1?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/11HoyxwXVwWq6lj2Rv37CH"},
 {481, "Dilema Cinta", "Ungu", "https://p.scdn.co/mp3-preview/2f3271a0d9508fc9361a63ee4143a5bd242ac191?cid=f96aae102e3a458092a42d67fcf63083", "https://api.spotify.com/v1/tracks/2u45XOSxsgUj8GOCA8OmZJ"},
