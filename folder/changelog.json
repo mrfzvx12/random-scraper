@@ -1,0 +1,37 @@
+[
+  {
+    "version": "8.6.3",
+    "list": [
+      "Gratis Add bot kedalam group",
+      "Penambahan fitur repeat, gunakan titik 2 (..) dengan mereply pesan untuk mengulangi perintah",
+      "Mengembalikan fitur admin group",
+      "Mengembalikan limit pada fitur",
+      "Penghapusan fitur topgroup & join"
+    ]
+  },
+  {
+    "version": "8.6.2",
+    "list": [
+      "Perbaikan fitur quotechat, sticker, & ttp",
+      "Mengembalikan fitur limit"
+    ]
+  },
+  {
+    "version": "8.6.1-Beta",
+    "list": ["Penghapusan fitur admin", "Menghilangkan limit pada fitur"]
+  },
+  {
+    "version": "8.6.0",
+    "list": [
+      "Perbaikan fitur openai, chatbot, midjourney",
+      "Penambahan fitur download Spotify"
+    ]
+  },
+  {
+    "version": "8.5.9",
+    "list": [
+      "Penambahan fitur antilink, view, whatmusic, quotechat",
+      "Perbaikan fitur removebg, ttp, toimg"
+    ]
+  }
+]
