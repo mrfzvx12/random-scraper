@@ -1,1172 +1,2688 @@
 [
-  { 
+  {
     "index": 1,
     "soal": "Hewan sejenis kadal yang dapat merubah warna kulitnya?",
     "jawaban": "Bunglon"
   },
-  { 
+  {
     "index": 2,
     "soal": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966?",
     "jawaban": "Supersemar"
   },
-  { 
+  {
     "index": 3,
     "soal": "Sungai terpanjang di Benua Amerika?",
     "jawaban": "Amazon"
   },
-  { 
+  {
     "index": 4,
     "soal": "Wanita yang tercatat dalam sejarah sebagai penjahit Bendera Pusaka Indonesia?",
     "jawaban": "Fatmawati"
   },
-  { 
+  {
     "index": 5,
     "soal": "Lomba lari jarak jauh sepanjang 42,195 km?",
     "jawaban": "Marathon"
   },
-  { 
+  {
     "index": 6,
     "soal": "Garis yang membagi Bumi menjadi dua bagian belahan utara dan belahan selatan?",
     "jawaban": "Khatulistiwa"
   },
-  { 
+  {
     "index": 7,
     "soal": "Kota yang berdiri sejak tahun 682 ini disebut sebagai kota tertua di Indonesia?",
     "jawaban": "Palembang"
   },
-  { 
+  {
     "index": 8,
     "soal": "Sebutan untuk gaya tarik-menarik yang terjadi di alam semesta termasuk Bumi?",
     "jawaban": "Gravitasi"
   },
-  { 
+  {
     "index": 9,
     "soal": "Nama film yang bercerita tentang robot yang dapat berubah menjadi kendaran?",
     "jawaban": "Transformers"
   },
-  { 
+  {
     "index": 10,
     "soal": "Petarung di zaman Romawi Kuno yang melakukan pertarungan untuk hiburan umum?",
     "jawaban": "Gladiator"
   },
-  { 
+  {
     "index": 11,
     "soal": "Nama kapal penumpang mewah yang tenggelam saat pelayaran perdana tahun 1912?",
     "jawaban": "Titanic"
   },
-  { 
+  {
     "index": 12,
     "soal": "Klub sepak bola dari Italia yang memiliki julukan Nyonya Tua?",
     "jawaban": "Juventus"
   },
-  { 
+  {
     "index": 13,
     "soal": "Mekanisme sistem pemerintahan negara yang berdasarkan kehendak rakyat?",
     "jawaban": "Demokrasi"
   },
-  { 
+  {
     "index": 14,
     "soal": "Nama kesenian drama tari tradisional yang khas dari Bali?",
     "jawaban": "Kecak"
   },
-  { 
+  {
     "index": 15,
     "soal": "Nama mata uang yang digunakan di negara Rusia?",
     "jawaban": "Rubel"
   },
-  { 
+  {
     "index": 16,
     "soal": "Ilmu alam yang mengamati benda langit serta fenomena di luar atmosfer Bumi?",
     "jawaban": "Astronomi"
   },
-  { 
+  {
     "index": 17,
     "soal": "Kaisar Prancis yang menguasai Benua Eropa pada tahun 1803-1815?",
     "jawaban": "Napoleon"
   },
-  { 
+  {
     "index": 18,
     "soal": "Seniman terkenal dunia dari Spanyol dengan aliran seni bernama kubisme?",
     "jawaban": "Picasso"
   },
-  { 
+  {
     "index": 19,
     "soal": "Nama panglima tertinggi Pasukan Sekutu pada Perang dunia II?",
     "jawaban": "Eisenhower"
   },
-  { 
+  {
     "index": 20,
     "soal": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith?",
     "jawaban": "Lightsaber"
   },
-  { 
+  {
     "index": 21,
     "soal": "Nama semenanjung di Eropa dimana terdapat negara Norwegia dan Swedia?",
     "jawaban": "Skandinavia"
   },
-  { 
+  {
     "index": 22,
     "soal": "Stadion sepak bola di London yang juga markas utama klub Arsenal FC?",
     "jawaban": "Emirates"
   },
-  { 
+  {
     "index": 23,
     "soal": "Penyanyi wanita terkenal dunia, dulu berada dalam grup Destiny’s Child?",
     "jawaban": "Beyonce"
   },
-  { 
+  {
     "index": 24,
     "soal": "Istilah untuk sebuah kepercayaan bahwa Tuhan adalah satu atau tunggal?",
     "jawaban": "Monoteisme"
   },
-  { 
+  {
     "index": 25,
     "soal": "Nama kerajaan dimana rajanya menjadi wakil Gubernur DI Yogyakarta saat ini?",
     "jawaban": "Pakualaman"
   },
-  { 
+  {
     "index": 26,
     "soal": "Disebut sebagai salah satu matematikawan terbesar sejarah, lahir pada 287 SM?",
     "jawaban": "Archimedes"
   },
-  { 
+  {
     "index": 27,
     "soal": "Rangkaian pegunungan tertinggi di Indonesia, terletak di Pulau Papua?",
     "jawaban": "Jayawijaya"
   },
-  { 
+  {
     "index": 28,
     "soal": "Kelompok fiksi superhero yang terdiri dari Iron Man, Captain America, Hulk, Thor?",
     "jawaban": "Avengers"
   },
-  { 
+  {
     "index": 29,
     "soal": "Nama wilayah luas di Rusia, meliputi hampir seluruh wilayah Asia Utara?",
     "jawaban": "Siberia"
   },
-  { 
+  {
     "index": 30,
     "soal": "Suatu benda atau media yang menghantarkan arus listrik dengan mudah?",
     "jawaban": "Konduktor"
   },
-  { 
+  {
     "index": 31,
     "soal": "Nama bahasa yang digunakan di Iran, Tajikistan, Afganistan, dan Uzbekistan?",
     "jawaban": "Farsi"
   },
-  { 
+  {
     "index": 32,
     "soal": "Daerah dimana terdapat praktik pertanian pertama sekitar tahun 8000 SM?",
     "jawaban": "Mesopotamia"
   },
-  { 
+  {
     "index": 33,
     "soal": "Ideologi yang berdasarkan pada prinsip kepemimpinan dengan otoritas absolut?",
     "jawaban": "Fasisme"
   },
-  { 
+  {
     "index": 34,
     "soal": "Nama periode geologi dari 252 ke 66 juta tahun yang lalu, disebut juga Zaman Reptil?",
     "jawaban": "Mesozoikum"
   },
-  { 
+  {
     "index": 35,
     "soal": "Nama yang dikenal dalam legenda Jawab sebagai arsitek perancang Candi Borobudur?",
     "jawaban": "Gunadharma"
   },
-  { 
+  {
     "index": 36,
     "soal": "Tarian tradisional Tionghoa yang menggunakan kostum menyerupai singa",
     "jawaban": "Barongsai"
   },
-  { 
+  {
     "index": 37,
     "soal": "Istilah yang artinya perpindahan penduduk dari desa ke kota?",
     "jawaban": "Urbanisasi"
   },
-  { 
+  {
     "index": 38,
     "soal": "Grup musik terkenal tahun 1970an asal Bandung, personelnya tiga bersaudara?",
     "jawaban": "Bimbo"
   },
-  { 
+  {
     "index": 39,
     "soal": "Nama film aksi laga Indonesia tahun 2009 yang dibintangi oleh Iko Uwais?",
     "jawaban": "Merantau"
   },
-  { 
+  {
     "index": 40,
     "soal": "Dikenal sebagai “maestro keroncong Indonesia”, pencipta lagu Bengawan Solo?",
     "jawaban": "Gesang"
   },
-  { 
+  {
     "index": 41,
     "soal": "Skala suhu dimana titik beku air berada pada 0 derajat dan titik didih pada 100 derajat?",
     "jawaban": "Celcius"
   },
-  { 
+  {
     "index": 42,
     "soal": "Makhluk halus mitos Jawa, berwujud manusia mirip kera, bertubuh besar dan berbulu?",
     "jawaban": "Genderuwo"
   },
-  { 
+  {
     "index": 43,
     "soal": "Sebuah distrik di Los Angeles yang terkenal dengan industri perfilmannya yang mendunia?",
     "jawaban": "Hollywood"
   },
-  { 
+  {
     "index": 44,
     "soal": "Cabang biologi yang mempelajari pewarisan sifat pada organisme maupun suborganisme?",
     "jawaban": "Genetika"
   },
-  { 
+  {
     "index": 45,
     "soal": "Situs manusia purba di Jawa Tengah, juga merupakan Situs Warisan Dunia UNESCO?",
     "jawaban": "Sangiran"
   },
-  { 
+  {
     "index": 46,
     "soal": "Bongkahan batu yang berukuran lebih kecil daripada planet, mengorbit Matahari?",
     "jawaban": "Asteroid"
   },
-  { 
+  {
     "index": 47,
     "soal": "Istilah untuk hewan pemakan rerumputan atau tumbuhan?",
     "jawaban": "Herbivora"
   },
-  { 
+  {
     "index": 48,
     "soal": "Istilah yang berarti pembantaian sistematis terhadap suatu suku atau kelompok?",
     "jawaban": "Genosida"
   },
-  { 
+  {
     "index": 49,
     "soal": "Nama penyakit demam yang ditularkan oleh nyamuk Anopheles betina?",
     "jawaban": "Malaria"
   },
-  { 
+  {
     "index": 50,
     "soal": "Nama tokoh fiksi budaya Sunda yang sifatnya lucu, polos, tetapi sekaligus cerdas?",
     "jawaban": "Kabayan"
   },
-  { 
+  {
     "index": 51,
     "soal": "Asrama tempat belajar para siswa santri yang dibimbin oleh Kiai?",
     "jawaban": "Pesantren"
   },
-  { 
+  {
     "index": 52,
     "soal": "Perusahaan video game dari Jepang, pencipta Mario Bros dan Pokemon?",
     "jawaban": "Nintendo"
   },
-  { 
+  {
     "index": 53,
     "soal": "Sebuah agama resmi di Indonesia yang berdasarkan pada ajaran Konfusius?",
     "jawaban": "Khong hu cu"
   },
-  { 
+  {
     "index": 54,
     "soal": "Nama ensiklopedia online yang bebas ditulis dan disunting oleh siapa saja?",
     "jawaban": "Wikipedia"
   },
-  { 
+  {
     "index": 55,
     "soal": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang?",
     "jawaban": "Trapesium"
   },
-  { 
+  {
     "index": 56,
     "soal": "Penyakit dimana hormon pengatur gula dara dari tubuh tidak mencukupi?",
     "jawaban": "Diabetes"
   },
-  { 
+  {
     "index": 57,
     "soal": "Negara independen terkecil di dunia yang diakui secara internasional?",
     "jawaban": "Vatikan"
   },
-  { 
+  {
     "index": 58,
     "soal": "Kekaisaran kuno di wilayah Yunani yang dipimpin oleh Aleksander Agung?",
     "jawaban": "Makedonia"
   },
-  { 
+  {
     "index": 59,
     "soal": "Negara dengan jumlah penduduk Muslim terbanyak kedua di dunia?",
     "jawaban": "Pakistan"
   },
-  { 
+  {
     "index": 60,
     "soal": "Gejala penurunan fungsi otak, umumnya terjadi pada usia lanjut?",
     "jawaban": "Demensia"
   },
-  { 
+  {
     "index": 61,
     "soal": "Bahan bakar fosil, digunakan di Pembangkit Listrik Tenaga Uap?",
     "jawaban": "Batu bara"
   },
-  { 
+  {
     "index": 62,
     "soal": "Nama pura terkenal di Bali yang dibangun pada ujung batu karang?",
     "jawaban": "Uluwatu"
   },
-  { 
+  {
     "index": 63,
     "soal": "Sebuah gelar yang diperoleh putra Sultan Agung dari Mataram?",
     "jawaban": "Amangkurat"
   },
-  { 
+  {
     "index": 64,
     "soal": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga?",
     "jawaban": "Pramusiwi"
   },
-  { 
+  {
     "index": 65,
     "soal": "Daerah di Jepang dimana terjadi kebocoran nuklir pada tahun 2011?",
     "jawaban": "Fukushima"
   },
-  { 
+  {
     "index": 66,
     "soal": "Perlindungan finansial untuk jiwa kesehatan properti dsb?",
     "jawaban": "Asuransi"
   },
-  { 
+  {
     "index": 67,
     "soal": "Perusahaan berlogo kuda asal Italia produsen mobil super dan mobil balap?",
     "jawaban": "Ferrari"
   },
-  { 
+  {
     "index": 68,
     "soal": "Suku dari sulawesi selatan yang terkenal sebagai pelaut ulung?",
     "jawaban": "BugisVampir yang"
   },
-  { 
+  {
     "index": 69,
     "soal": "Vampir yang merupakan tokoh utama fiksi ciptaan Bram Stoker?",
     "jawaban": "Drakula"
   },
-  { 
+  {
     "index": 70,
     "soal": "Planet ini merupakan planet terbesar di Tata Surya?",
     "jawaban": "Yupiter"
   },
-  { 
+  {
     "index": 71,
     "soal": "Tanaman yang dipakai sebagai bahan pembuat kertas pada Zaman Mesir Kuno?",
     "jawaban": "Papirus"
   },
-  { 
+  {
     "index": 72,
     "soal": "Bahan peledak berupa bubuk campuran dari belerang, arang, dan kalium nitrat?",
     "jawaban": "Mesiu"
   },
-  { 
+  {
     "index": 73,
     "soal": "Bahasa resmi yang juga digunakan secara luas di Negara Filipina?",
     "jawaban": "Tagalog"
   },
-  { 
+  {
     "index": 74,
     "soal": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa?",
     "jawaban": "Suriname"
   },
-  { 
+  {
     "index": 75,
     "soal": "Kuda jantan bersayap dari mitologi Yunani?",
     "jawaban": "Pegasus"
   },
-  { 
+  {
     "index": 76,
     "soal": "Grup musik Rock alternatif dari London. vokalisnya bernama Chris Martin?",
     "jawaban": "Coldplay"
   },
-  { 
+  {
     "index": 77,
     "soal": "Buah yang jika dipotong mempunyai penampang berbentuk bintang?",
     "jawaban": "Belimbing"
   },
-  { 
+  {
     "index": 78,
     "soal": "Ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong?",
     "jawaban": "Gamelan"
   },
-  { 
+  {
     "index": 79,
     "soal": "Nama kota yang selama beberapa abad diperebutkan oleh Islam, Kristen, Yahudi?",
     "jawaban": "Yerusalem"
   },
-  { 
+  {
     "index": 80,
     "soal": "Bahasa resmi negara Bangladesh, digunakan oleh sekitar 200 juta orang?",
     "jawaban": "Bengali"
   },
-  { 
+  {
     "index": 81,
     "soal": "Minuman memabukkan yang berbahan dasar etanol?",
     "jawaban": "Alkohol"
   },
-  { 
+  {
     "index": 82,
     "soal": "Satu-satunya gunung berapi aktif di Eropa Daratan yang letaknya di Italia?",
     "jawaban": "Vesuvius"
   },
-  { 
+  {
     "index": 83,
     "soal": "Karakter fiksi berambut sangat panjang tokoh utama film animasi Tangled?",
     "jawaban": "Rapunzel"
   },
-  { 
+  {
     "index": 84,
     "soal": "Bencana alam berupa gelombang ombak besar dari laut?",
     "jawaban": "Tsunami"
   },
-  { 
+  {
     "index": 85,
     "soal": "Nama kota di negara Turki yang zaman dulu bernama Konstantinopel?",
     "jawaban": "Istanbul"
   },
-  { 
+  {
     "index": 86,
     "soal": "Subspesies manusia yang punah dari muka bumi sekitar 30.000 tahun yang lalu?",
     "jawaban": "Neanderthal"
   },
-  { 
+  {
     "index": 87,
     "soal": "Nama ritual bunuh diri kaum Samurai di Jepang dengan cara merobek perut?",
     "jawaban": "Seppuku"
   },
-  { 
+  {
     "index": 88,
     "soal": "Jenis keju asal Italia yang seringkali terdapat pada hidangan pizza?",
     "jawaban": "Mozzarella"
   },
-  { 
+  {
     "index": 89,
     "soal": "Gelar bagi istri dari penguasa monarki pria(raja, sultan, atau kaisar)?",
     "jawaban": "Permaisuri"
   },
-  { 
+  {
     "index": 90,
     "soal": "Nama suku yang sejak lama mendiami daerah kutub utara bumi?",
     "jawaban": "Eskimo"
   },
-  { 
+  {
     "index": 91,
     "soal": "Unsur paling berlimpah kedua setelah oksigen pada tubuh manusia?",
     "jawaban": "Karbon"
   },
-  { 
+  {
     "index": 92,
     "soal": "Peristiwa genosida terhadap penganut Yahudi Eropa selama Perang Dunia II?",
     "jawaban": "Holokaus"
   },
-  { 
+  {
     "index": 93,
     "soal": "Proses perubahan gula menjadi etanol yang dilakukan oleh ragi?",
     "jawaban": "Fermentasi"
   },
-  { 
+  {
     "index": 94,
     "soal": "Ramalan dalam tradisi jawa yang membahas mengenai adanya ratu adil?",
     "jawaban": "Jayabaya"
   },
-  { 
+  {
     "index": 95,
     "soal": "Tokoh abad ke 15 dari Polandia yang mencetuskan teori heliosentrisme?",
     "jawaban": "Copernicus"
   },
-  { 
+  {
     "index": 96,
     "soal": "Alat populer untuk menyambung dua sisi kain, digunakan dalam pakaian, tas, dsb?",
     "jawaban": "Ritsleting"
   },
-  { 
+  {
     "index": 97,
     "soal": "Satuan perbedaan potensi listrik antara dua titik dalam rangkaian listrik?",
     "jawaban": "Voltase"
   },
-  { 
+  {
     "index": 98,
     "soal": "Sistem sosial yang memberikan kekuasaan besar kepada golongan bangsawan?",
     "jawaban": "Feodalisme"
   },
-  { 
+  {
     "index": 99,
     "soal": "Nama pemanis buatan/sintetis yang tersusun dari dua macam asam amino?",
     "jawaban": "Aspartam"
   },
-  { 
+  {
     "index": 100,
     "soal": "Konsol permainan video yang pertama kali diproduksi oleh Sony tahun 1990an?",
     "jawaban": "PlayStation"
   },
-  { 
+  {
     "index": 101,
     "soal": "Nama lain pulau Kalimantan, digunakan saat zaman pemerintahan Hindia Belanda?",
     "jawaban": "Borneo"
   },
-  { 
+  {
     "index": 102,
     "soal": "Batu permata atau batu mulia yang warnanya pada kisaran hijau?",
     "jawaban": "Zamrud"
   },
-  { 
+  {
     "index": 103,
     "soal": "Nama museum sejarah dan kebudayaan jawa yang berada di Yogyakarta?",
     "jawaban": "Sonobudoyo"
   },
-  { 
+  {
     "index": 104,
     "soal": "Cabang ilmu kedokteran yang mempelajari aspek kesehatan jiwa dan tubuh manusia?",
     "jawaban": "Psikiatri"
   },
-  { 
+  {
     "index": 105,
     "soal": "Presiden pertama Amerika Serikat, juga menjadi nama Ibukota Amerika Serikat?",
     "jawaban": "Washingthon"
   },
-  { 
+  {
     "index": 106,
     "soal": "Satu-satunya jenis hewan mamalia yang bisa terbang?",
     "jawaban": "Kelelawar"
   },
-  { 
+  {
     "index": 107,
     "soal": "Gugus kepulauan Oseania, terdiri lebih dari 1000 kepulauan?",
     "jawaban": "Polinesia"
   },
-  { 
+  {
     "index": 108,
     "soal": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar?",
     "jawaban": "Maharaja"
   },
-  { 
+  {
     "index": 109,
     "soal": "Nama pulau yang paling berdekatan dengan negara Singapura?",
     "jawaban": "Batam"
   },
-  { 
+  {
     "index": 110,
     "soal": "Cabang angkatan bersenjata berkemampuan melakukan penyerbuan secara amfibi?",
     "jawaban": "Marinir"
   },
-  { 
+  {
     "index": 111,
     "soal": "Perusahaan operator seluler di Indonesia dengan pelanggan terbanyak?",
     "jawaban": "Telkomsel"
   },
-  { 
+  {
     "index": 112,
     "soal": "Nama binatang bercangkang dan berkaki 10?",
     "jawaban": "Kepiting"
   },
-  { 
+  {
     "index": 113,
     "soal": "Benda miniatur untuk menggabarkan suatu pemandangan atau suatu adegan?",
     "jawaban": "Diorama"
   },
-  { 
+  {
     "index": 114,
     "soal": "Rumah adat masyarakat Toraja, atapnya melengkung menyerupai perahu?",
     "jawaban": "Tonkonan"
   },
-  { 
+  {
     "index": 115,
     "soal": "Gua yang menjadi markas besar pangeran Diponegoro pada tahun 1825?",
     "jawaban": "Selarong"
   },
-  { 
+  {
     "index": 116,
     "soal": "Sebutan untuk makhluk berwujud perempuan yang tinggal di kahyangan/surga?",
     "jawaban": "Bidadari"
   },
-  { 
+  {
     "index": 117,
     "soal": "Pedang melengkung satu mata yang digunakan para Samurai Jepang?",
     "jawaban": "Katana"
   },
-  { 
+  {
     "index": 118,
     "soal": "Bahan perhiasan yang diproduksi di dalam jaringan lunak hewan moluska?",
     "jawaban": "Mutiara"
   },
-  { 
+  {
     "index": 119,
     "soal": "Nama perusahaan dari Finlandia pengembang game Clash of Clans?",
     "jawaban": "Supercell"
   },
-  { 
+  {
     "index": 120,
     "soal": "Minuman tradisional khas Sunda, berbahan utama gula aren dan santan?",
     "jawaban": "Bajigur"
   },
-  { 
+  {
     "index": 121,
     "soal": "Aliran musik yang awalnya dikembangkan di jamaika pada tahun 1960an?",
     "jawaban": "Reggae"
   },
-  { 
+  {
     "index": 122,
     "soal": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa?",
     "jawaban": "Ludruk"
   },
-  { 
+  {
     "index": 123,
     "soal": "Nama asrama sekolah fiksi dimana tokoh Harry Potter belajar sihir?",
     "jawaban": "Hogwarts"
   },
-  { 
+  {
     "index": 124,
     "soal": "Kota yang asal mula namanya berasal dari sejarahnya sebagai pembuat terasi?",
     "jawaban": "Cirebon"
   },
-  { 
+  {
     "index": 125,
     "soal": "Pejabat umum dalam bidang hukum yang berwenang membuat akta otentik?",
     "jawaban": "Notaris"
   },
-  { 
+  {
     "index": 126,
     "soal": "Jenis gula yang diproses dari karbohidrat oleh tubuh manusia?",
     "jawaban": "Glukosa"
   },
-  { 
+  {
     "index": 127,
     "soal": "Pisau genggam kecil berbentuk melengkung khas dari Asia Tenggara?",
     "jawaban": "Kerambit"
   },
-  { 
+  {
     "index": 128,
     "soal": "Spesies gajah purba dari genus mamut, pemakan dedaunan dan dahan pohon?",
     "jawaban": "Mastodon"
   },
-  { 
+  {
     "index": 129,
     "soal": "Sumpah yang dikemukakan Gajah Mada pada upacara pengangkatannya menjadi Patih?",
     "jawaban": "Palapa"
   },
-  { 
+  {
     "index": 130,
     "soal": "Produk simpanan di bank, penarikannya hanya bisa dilakukan pada waktu tertentu saja?",
     "jawaban": "Deposito"
   },
-  { 
+  {
     "index": 131,
     "soal": "Gejala optik dan meteorologi berupa cahaya beraneka warna yang tampak di langit?",
     "jawaban": "Pelangi"
   },
-  { 
+  {
     "index": 132,
     "soal": "Senjata roket militer yang memiliki sistem pengendali otomatis untuk mencari target?",
     "jawaban": "Rudal"
   },
-  { 
+  {
     "index": 133,
     "soal": "Sindikat kejahatan terorganisir di Jepang yang memiliki cara dan hukum mereka sendiri?",
     "jawaban": "Yakuza"
   },
-  { 
+  {
     "index": 134,
     "soal": "Golongan cendekiawan yang juga merupakan golongan karya atau warna dalam agama Hindu?",
     "jawaban": "Brahmana"
   },
-  { 
+  {
     "index": 135,
     "soal": "Musim kering pada daerah tropis yang dipengaruhi oleh sistem muson?",
     "jawaban": "kemarau"
   },
-  { 
+  {
     "index": 136,
     "soal": "Sekolah umum yang kurikulumnya terdapat pelajaran-pelajaran tentang ke-islaman?",
     "jawaban": "Madrasah"
   },
-  { 
+  {
     "index": 137,
     "soal": "Tanaman yang dapat tumbuh tanpa air pada waktu yang lama, ada di daerah gurun?",
     "jawaban": "Kaktus"
   },
-  { 
+  {
     "index": 138,
     "soal": "Sebuah ordo berjari lima dari mamalia, diantaranya termasuk lemur, kera, dan manusia?",
     "jawaban": "Primata"
   },
-  { 
+  {
     "index": 139,
     "soal": "Blus tradisional wanita yang terbuat dari bahan tipis, dikenakan dengan sarung atau batik?",
     "jawaban": "Kebaya"
   },
-  { 
+  {
     "index": 140,
     "soal": "Jenis protein yang biasanya terkandung di dalam gandum, dihindari penderita celiac?",
     "jawaban": "Gluten"
   },
-  { 
+  {
     "index": 141,
     "soal": "Olahraga bela diri yang dikembangkan oleh para Afrika di Brasil pada tahun 1500an?",
     "jawaban": "Capoeira"
   },
-  { 
+  {
     "index": 142,
     "soal": "Peristiwa pengikisan padatan seperti batuan/tanah akibat transportasi angin, air, atau es?",
     "jawaban": "Erosi"
   },
-  { 
+  {
     "index": 143,
     "soal": "Ikan yang merupakan kerabat dekat ikan tuna, sering diolah menjadi kerupuk, siomay, pempek?",
     "jawaban": "Ikan tenggiri"
   },
-  { 
+  {
     "index": 144,
     "soal": "Sebuah jenis tari pergaulan tradisional masyarakat Sunda, khusunya daerah Karawang?",
     "jawaban": "Jaipongan"
   },
-  { 
+  {
     "index": 145,
     "soal": "Sistem bilangan dimana penulisan angka menggunakan dua simbol yaitu 0 dan 1?",
     "jawaban": "Biner"
   },
-  { 
+  {
     "index": 146,
     "soal": "Rempah dari biji keluarga jahe-jahean, merupakan rempah termahal ketiga di dunia?",
     "jawaban": "Kapulaga"
   },
-  { 
+  {
     "index": 147,
     "soal": "Benua yang meliputi Kutub Selatan bumi memiliki suhu yang sangat rendah?",
     "jawaban": "Antartika"
   },
-  { 
+  {
     "index": 148,
     "soal": "Senjata pelontar yang banyak digunakan pada Abad Pertengahan untuk menghancurkan dinding?",
     "jawaban": "Trebuset"
   },
-  { 
+  {
     "index": 149,
     "soal": "Serpihan putih yang merupakan pengelupasan kulit mati berlebihan di kepala?",
     "jawaban": "Ketombe"
   },
-  { 
+  {
     "index": 150,
     "soal": "Ilmu yang mempelajari bahasa dalam naskah-naskah manuskrip zaman kuno?",
     "jawaban": "Filologi"
   },
-  { 
+  {
     "index": 151,
     "soal": "Susu yang hanya dihasilkan pada tahap akhir kehamilan beberapa hari setelah melahirkan?",
     "jawaban": "Kolostrum"
   },
-  { 
+  {
     "index": 152,
     "soal": "Tanaman asli Jepang terasa tajam/pedas yang dimakan sebagai penyedap masakan Jepang?",
     "jawaban": "Wasabi"
   },
-  { 
+  {
     "index": 153,
     "soal": "Olahraga yang menggunakan tongkat pemukul, lapangannya berbentuk bujur sangkar?",
     "jawaban": "Bisbol"
   },
-  { 
+  {
     "index": 154,
     "soal": "Bumbu khas untuk masakan Batak Toba yang juga dikenal sebagai merica Batak?",
     "jawaban": "Andaliman"
   },
-  { 
+  {
     "index": 155,
     "soal": "Sistem pemerintahan yang dianut oleh negara Inggris, Jepang, Belanda, Malaysia, Singapura?",
     "jawaban": "Parelementer"
   },
-  { 
+  {
     "index": 156,
     "soal": "Makanan tradisional Korea berupa asinan sayur hasil fermentasi yang diberi bumbu pedas?",
     "jawaban": "Kimchi"
   },
-  { 
+  {
     "index": 157,
     "soal": "Istilah untuk sesuatu yang bertujuan sosial atau lingkungan, bukan bertujuan keuntungan materi?",
     "jawaban": "Nirlaba"
   },
-  { 
+  {
     "index": 158,
     "soal": "Gerakan yang memperjuangkan kesetaraan bagi perempuan dalam politik, ekonomi, budaya, dsb?",
     "jawaban": "Feminisme"
   },
-  { 
+  {
     "index": 159,
     "soal": "Minuman hasil fermentasi teh dan gula yang berasal dari Asia Timur?",
     "jawaban": "Kombucha"
   },
-  { 
+  {
     "index": 160,
     "soal": "Kelompok garis kerras dari Rusia tahun 1903 yang berpikir perubahan harus dimenangkan dengan senjata?",
     "jawaban": "Bolshevic"
   },
-  { 
+  {
     "index": 161,
     "soal": "Nama pulau vulkanik yang berada di tengah Danau Toba Sumatera Utara?",
     "jawaban": "Samosir"
   },
-  { 
+  {
     "index": 162,
     "soal": "Prajurit pada zaman Yunani Kuno, berfungsi sebagai penombak dalam formasi phalanx?",
     "jawaban": "Hoplites"
   },
-  { 
+  {
     "index": 163,
     "soal": "Nama dari sebuah pekan yang terdiri dari 5 hari dalam budaya Jawa dan Bali?",
     "jawaban": "Pancawara"
   },
-  { 
+  {
     "index": 164,
     "soal": "Cara penyajian makanan pada masa kolonial Belanda dengan berbagai macam hidangan Nusantara?",
     "jawaban": "Rijsttafel"
   },
-  { 
+  {
     "index": 165,
     "soal": "Istilah untuk budidaya menanamdengan memanfaatkan air tanpa menggunakan tanah?",
     "jawaban": "Hidroponik"
   },
-  { 
+  {
     "index": 166,
     "soal": "Jenis logam paling berlimpah di Bumi, merupakan konduktor listrik yang paling baik?",
     "jawaban": "Aluminium"
   },
-  { 
+  {
     "index": 167,
     "soal": "Sebuah organisasi ekonomi berdasarkan ekonomi rakyat dan asas kekeluargaan?",
     "jawaban": "Koperasi"
   },
-  { 
+  {
     "index": 168,
     "soal": "Hari raya umat hindu, dirayakan setiap 210 hari menggunakan perhitungan kalender Bali?",
     "jawaban": "Galungan"
   },
-  { 
+  {
     "index": 169,
     "soal": "Ilmu yang mempelajari bentuk permukaan bumi serta permukaan planet, satelit alami, asteroid?",
     "jawaban": "Topografi"
   },
-  { 
+  {
     "index": 170,
     "soal": "Persembahan kepada dewa atau arwah nenek moyang oleh penganut kepercayaan kuno di Indonesia?",
     "jawaban": "Sesajen"
   },
-  { 
+  {
     "index": 171,
     "soal": "Judul lagurakyat Korea, sekaligus simbol Korea, dikenal di Korea Utara maupun Korea Selatan?",
     "jawaban": "Arirang"
   },
-  { 
+  {
     "index": 172,
     "soal": "Istilah bentuk bangsa pengembara yang memilih hidup berpindah-pindah untuk bertahan hidup?",
     "jawaban": "Nomaden"
   },
-  { 
+  {
     "index": 173,
     "soal": "Sejenis jamur pinus langka yang menjadi bahan makanan mewah berharga mahal di Jepang?",
     "jawaban": "Matsutake"
   },
-  { 
+  {
     "index": 174,
     "soal": "Suatu adat masyarakat yang mengatur alur keturunan berasal dari pihak ibu?",
     "jawaban": "Matrilineal"
   },
-  { 
+  {
     "index": 175,
     "soal": "Padang rumput yang dipenuhi semak dan beberapa jenis pohon yang tumbuh menyebar?",
     "jawaban": "Sabana"
   },
-  { 
+  {
     "index": 176,
     "soal": "Penjelajah asal italia yang menemukan benua amerika pada tahun 1492?",
     "jawaban": "Capoerira"
   },
-  { 
+  {
     "index": 177,
     "soal": "Skor atau skala yang digunakan unuk menilai kondisi kesehatan bayi yang baru lahir?",
     "jawaban": "Apgar"
   },
-  { 
+  {
     "index": 178,
     "soal": "Salah satu pulau di Sulawesi Utara yang memiliki biodiversitas kelautan tertinngi di dunia?",
     "jawaban": "Bunaken"
   },
-  { 
+  {
     "index": 179,
     "soal": "Ahli pengaplikasian ilmu keuangan dan teori statistik pada persoalan bisnis aktual?",
     "jawaban": "Aktuaris"
   },
-  { 
+  {
     "index": 180,
     "soal": "Tradisi sepasang pengantin meminta doa restu kepada orang tua kedua belah pihak?",
     "jawaban": "Sungkem"
   },
-  { 
+  {
     "index": 181,
     "soal": "Jenis saus berwarna putih yang terbuat dari minyak nabati, telur ayam, dan cuka?",
     "jawaban": "Mayones"
   },
-  { 
+  {
     "index": 182,
     "soal": "Istilah yang artinya tidak memberikan suara atau sikap dalam sebuah pemungutan suara?",
     "jawaban": "Abstain"
   },
-  { 
+  {
     "index": 183,
     "soal": "Salah satu bunga nasional indonesia memiliki julukan sebagai puspa bangsa?",
     "jawaban": "Melati"
   },
-  { 
+  {
     "index": 184,
     "soal": "Alat musik dawai yang dimainkan dengan cara dipetik, berasal dari Rote, NTT?",
     "jawaban": "Sasando"
   },
-  { 
+  {
     "index": 185,
     "soal": "Batu yang menggantungkan dan meneteskan air dari langit-langit gua kapur?",
     "jawaban": "Stalaktit"
   },
-  { 
+  {
     "index": 186,
     "soal": "Ikon negara singapura berupa patung berkepala singa dengan berbadan ikan?",
     "jawaban": "Merlion"
   },
-  { 
+  {
     "index": 187,
     "soal": "Istilah dalam catur ketika posisi raja tidak bisa lepas dari pergerakan lawan?",
     "jawaban": "Sekakmat"
   },
-  { 
+  {
     "index": 188,
     "soal": "Alat untuk mengukur tekanan udara, digunakan dalam peramalan cuaca?",
     "jawaban": "Barometer"
   },
-  { 
+  {
     "index": 189,
     "soal": "Presiden amerika ke 32 satu-satunya yang terpilih sebanyak 4 kali?",
     "jawaban": "Roosevelt"
   },
-  { 
+  {
     "index": 190,
     "soal": "Jenis rumah arsitektur tradisional Jawa terbangun dari empat tiang utama?",
     "jawaban": "Limasan"
   },
-  { 
+  {
     "index": 191,
     "soal": "Istilah bahasa Jepang untuk karakter gambar yang digunakan dalam pesan elektronik?",
     "jawaban": "Emoji"
   },
-  { 
+  {
     "index": 192,
     "soal": "Salah satu senjata belati khas Nusantara yang seringkali bilahnya berkelok-kelok?",
     "jawaban": "Keris"
   },
-  { 
+  {
     "index": 193,
     "soal": "Penduduk asli benua Australia yang berciri kulit gelap dan rambut keriting?",
     "jawaban": "Aborigin"
   },
-  { 
+  {
     "index": 194,
     "soal": "Tarian khas suku gayo dari aceh, ditampilkan untuk merayakan peristiwa penting?",
     "jawaban": "Tari saman"
   },
-  { 
+  {
     "index": 195,
     "soal": "Bentuk muda serangga atau amfibia yang perkembangannya melalui metamorfosis?",
     "jawaban": "Larva"
   },
-  { 
+  {
     "index": 196,
     "soal": "Tempat kapal ditambatkan di pelabuhan untuk kegiatan bongkar muat barang?",
     "jawaban": "Dermaga"
   },
-  { 
+  {
     "index": 197,
     "soal": "Jenis jam tangan yang digerakkan oleh mesin bertenaga listrik atau baterai?",
     "jawaban": "Quartz"
   },
-  { 
+  {
     "index": 198,
     "soal": "Suku penganut Agama Hindu yang tinggal di sekitar pegunungan Bromo dan Semeru?",
     "jawaban": "Tengger"
   },
-  { 
+  {
     "index": 199,
     "soal": "Mainan yang bisa berputar padaporos dan berkesetimbangan pada suatu titik?",
     "jawaban": "Gasing"
   },
-  { 
+  {
     "index": 200,
     "soal": "Tanaman polong-polongan yang merupakan sumber utama protein nabati dunia?",
     "jawaban": "Kedelai"
   },
-  { 
+  {
     "index": 201,
     "soal": "Cairan tidak berwarna, tidak berbau, digunakan sebagai senjata kimia pemusnah massal?",
     "jawaban": "Sarin"
   },
-  { 
+  {
     "index": 202,
     "soal": "Cabang ilmu kedokteran gigi yang khusus mempelajari ilmu merapikan gigi?",
     "jawaban": "Ortodonti"
   },
-  { 
+  {
     "index": 203,
     "soal": "Sstilah yang berasal dari Bahasa Italia, artinya penari baletperempuan?",
     "jawaban": "Balerina"
   },
-  { 
+  {
     "index": 204,
     "soal": "Sawah berundak di Bali yang diakui UNESCO sebagai Warisan Budaya Dunia?",
     "jawaban": "Jatiluwih"
   },
-  { 
+  {
     "index": 205,
     "soal": "Makanan pokok pengganti nasi yang dibuat dari ketela pohon atau singkong?",
     "jawaban": "Tiwul"
   },
-  { 
+  {
     "index": 206,
     "soal": "Bagian mata yang mengubah cahaya menjadi sinyal saraf?",
     "jawaban": "Retina"
   },
-  { 
+  {
     "index": 207,
     "soal": "Nama mesin penyandi yang digunakan Jerman nazi pada Perang Dunia II?",
     "jawaban": "Enigma"
   },
-  { 
+  {
     "index": 208,
     "soal": "Kosmetika yang terbuat dari lilin, pigmen, minyak, diaplikasikan pada bibir?",
     "jawaban": "Lipstik"
   },
-  { 
+  {
     "index": 209,
     "soal": "Bumbu makanan yang terbuat dari fermentasi kedelai, terigu, dan garam?",
     "jawaban": "Tauco"
   },
-  { 
+  {
     "index": 210,
     "soal": "Hewan renik yang dapat menurunkan produktivitas hewan yang diumpanginya?",
     "jawaban": "Parasit"
   },
-  { 
+  {
     "index": 211,
     "soal": "Cairan manis yang diproduksi bunga untuk menarik kedatangan hewan penyerbuk?",
     "jawaban": "Nektar"
   },
-  { 
+  {
     "index": 212,
     "soal": "Proses pembuatan daratan baru dari dasar laut atau dasar sungai?",
     "jawaban": "Reklamasi"
   },
-  { 
+  {
     "index": 213,
     "soal": "Istilah untuk keadaan niat sebelum melaksanakan ibadah Haji atau Umroh?",
     "jawaban": "Ihram"
   },
-  { 
+  {
     "index": 214,
     "soal": "Alat musik senar khas suku Banjar, dimainkan dengan cara dipetik?",
     "jawaban": "Panting"
   },
-  { 
+  {
     "index": 215,
     "soal": "Penyakit virus mematikan yang mewabah di Afrika Barat tahun 2014?",
     "jawaban": "Ebola"
   },
-  { 
+  {
     "index": 216,
     "soal": "Jenis musang yang dikenal suka menyantap biji kopi secara utuh?",
     "jawaban": "Luwak"
   },
-  { 
+  {
     "index": 217,
     "soal": "Nama pedang yang dimiliki raja Arthur menurut mitologi Britania Raya?",
     "jawaban": "Excalibur"
   },
-  { 
+  {
     "index": 218,
     "soal": "Negara yang memiliki bendera merah putih persis seperti Indonesia?",
     "jawaban": "Monako"
   },
-  { 
+  {
     "index": 219,
     "soal": "Suatu pertunjukan teater yang menggunakan isyarat gerak tubuh tanpa suara?",
     "jawaban": "Pantomim"
   },
-  { 
+  {
     "index": 220,
     "soal": "Tradisi pernikahan calon mempelai wanita tidak diperkenankan keluar rumah?",
     "jawaban": "Pingitan"
   },
-  { 
+  {
     "index": 221,
     "soal": "Tipe hewan yang beraktivitas pada malam hari dan tidur pada siang hari?",
     "jawaban": "Nokturnal"
   },
-  { 
+  {
     "index": 222,
     "soal": "Kelainan bawaan tidak adanya pigmen melanin pada mata, kulit, rambut?",
     "jawaban": "Albinisme"
   },
-  { 
+  {
     "index": 223,
     "soal": "Cabang ilmu linguistik yang mempelajari asal usul kata?",
     "jawaban": "Etimologi"
   },
-  { 
+  {
     "index": 224,
     "soal": "Jenis ikan yang dapat melompat kedaratan, terdapat di Pulau Kalimantan?",
     "jawaban": "Tembakul"
   },
-  { 
+  {
     "index": 225,
     "soal": "Mata uang elektronik dengan teknologi blockchain yang diciptakan pada tahun 2009?",
     "jawaban": "Bitcoin"
   },
-  { 
+  {
     "index": 226,
     "soal": "Pengusaha rokok terbesar tahun 1918 pemilik pabrik kretek tjap bal tiga?",
     "jawaban": "Nitisemito"
   },
-  { 
+  {
     "index": 227,
     "soal": "Pelukis ekspresionis ini dikenal sebagai maestro seni lukis Indonesia?",
     "jawaban": "Affandi"
   },
-  { 
+  {
     "index": 228,
     "soal": "Perusahaan transportasi luar angkasa yang didirikan oleh Elon Musk?",
     "jawaban": "Spacex"
   },
-  { 
+  {
     "index": 229,
     "soal": "Pendiri organisasi Muhammadiyah?",
     "jawaban": "Ahmad Dahlan"
   },
-  { 
+  {
     "index": 230,
     "soal": "Negara penghasil kopi terbesar di dunia?",
     "jawaban": "Brazil"
   },
-  { 
+  {
     "index": 231,
     "soal": "Ideologi yang dianut negara korea utara?",
     "jawaban": "Juche"
   },
-  { 
+  {
     "index": 232,
     "soal": "Museum tempat penyimpanan lukisan Monalisa?",
     "jawaban": "Louvre"
   },
-  { 
+  {
     "index": 233,
     "soal": "Kota tempat terletaknya patung Liberty?",
     "jawaban": "New York"
   },
-  { 
+  {
     "index": 234,
     "soal": "Lapisan yang didalamnya terdapat ozon?",
     "jawaban": "Stratosfer"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'murah'?",
+    "jawaban": "hemat"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Laskar Pelangi'?",
+    "jawaban": "Andrea Hirata"
+  },
+  {
+    "soal": "Apa antonim dari kata 'tinggi'?",
+    "jawaban": "rendah"
+  },
+  {
+    "soal": "Berapakah hasil dari 10 + 5?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Apa kepanjangan dari 'UNESCO'?",
+    "jawaban": "United Nations Educational, Scientific, and Cultural Organization"
+  },
+  {
+    "soal": "Siapakah presiden pertama Indonesia?",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Apa ibu kota dari Jepang?",
+    "jawaban": "Tokyo"
+  },
+  {
+    "soal": "Siapakah tokoh kartun seekor kucing yang sangat terkenal?",
+    "jawaban": "Garfield"
+  },
+  {
+    "soal": "Apa nama benua terbesar di dunia?",
+    "jawaban": "Asia"
+  },
+  {
+    "soal": "Dalam sistem angka Romawi, huruf apakah yang mewakili angka 50?",
+    "jawaban": "L"
+  },
+  {
+    "soal": "Apa kepanjangan dari 'ASEAN'?",
+    "jawaban": "Association of Southeast Asian Nations"
+  },
+  {
+    "soal": "Siapakah penulis drama terkenal 'Romeo dan Juliet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'senang'?",
+    "jawaban": "gembira"
+  },
+  {
+    "soal": "Berapakah hasil dari 8 x 7?",
+    "jawaban": "56"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil"
+  },
+  {
+    "soal": "Siapakah penemu bola lampu?",
+    "jawaban": "Thomas Alva Edison"
+  },
+  {
+    "soal": "Apa antonim dari kata 'gelap'?",
+    "jawaban": "terang"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-44?",
+    "jawaban": "Barack Obama"
+  },
+  {
+    "soal": "Apa ibu kota dari Spanyol?",
+    "jawaban": "Madrid"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi penjahat terkenal dalam cerita 'Sherlock Holmes'?",
+    "jawaban": "Professor Moriarty"
+  },
+  {
+    "soal": "Apa nama alat musik tiup yang terbuat dari logam dan sering digunakan dalam marching band?",
+    "jawaban": "Trompet"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Harry Potter'?",
+    "jawaban": "J.K. Rowling"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'menggemaskan'?",
+    "jawaban": "lucu"
+  },
+  {
+    "soal": "Berapakah hasil dari 20 ÷ 4?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Apa nama samudra terbesar di dunia?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "soal": "Siapakah penemu gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Apa antonim dari kata 'berani'?",
+    "jawaban": "takut"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negara Gajah Putih'?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negara Matahari Terbit'?",
+    "jawaban": "Jepang"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Ottawa?",
+    "jawaban": "Kanada"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Paman Sam'?",
+    "jawaban": "Amerika Serikat"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama New Delhi?",
+    "jawaban": "India"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Seribu Pulau'?",
+    "jawaban": "Indonesia"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Cairo?",
+    "jawaban": "Mesir"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negara Kanguru'?",
+    "jawaban": "Australia"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Bunga Mawar'?",
+    "jawaban": "Bulgaria"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negara Singa Merlion'?",
+    "jawaban": "Singapura"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Buenos Aires?",
+    "jawaban": "Argentina"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negara Paman Ho-Ho'?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Abu Dhabi?",
+    "jawaban": "Uni Emirat Arab (UEA)"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Seribu Wajah'?",
+    "jawaban": "Greece"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Moscow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Bunga Matahari'?",
+    "jawaban": "Argentina"
+  },
+  {
+    "soal": "Negara mana yang memiliki ibu kota bernama Jakarta?",
+    "jawaban": "Indonesia"
+  },
+  {
+    "soal": "Negara mana yang memiliki julukan 'Negeri Angin Ribut'?",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen"
+  },
+  {
+    "soal": "Apa ibu kota dari Brasil?",
+    "jawaban": "Brasilia"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang mempunyai julukan 'Caped Crusader'?",
+    "jawaban": "Batman"
+  },
+  {
+    "soal": "Apa nama tokoh fiksi terkenal yang tinggal di bawah laut dan memiliki rumah nanas?",
+    "jawaban": "SpongeBob SquarePants"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Hamlet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'santai'?",
+    "jawaban": "tenang"
+  },
+  {
+    "soal": "Berapakah hasil dari 15 + 9?",
+    "jawaban": "24"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di dunia?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "soal": "Siapakah penemu teori relativitas?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Apa antonim dari kata 'cerah'?",
+    "jawaban": "gelap"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-6?",
+    "jawaban": "Susilo Bambang Yudhoyono"
+  },
+  {
+    "soal": "Apa ibu kota dari Australia?",
+    "jawaban": "Canberra"
+  },
+  {
+    "soal": "Siapakah tokoh kartun pemilik rumah pohon yang sangat tinggi?",
+    "jawaban": "Tarzan"
+  },
+  {
+    "soal": "Apa nama tokoh fiksi terkenal yang tinggal di bawah laut dan memiliki rumah nanas?",
+    "jawaban": "SpongeBob SquarePants"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Hamlet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'santai'?",
+    "jawaban": "tenang"
+  },
+  {
+    "soal": "Berapakah hasil dari 15 + 9?",
+    "jawaban": "24"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di dunia?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "soal": "Siapakah penemu teori relativitas?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "soal": "Apa antonim dari kata 'cerah'?",
+    "jawaban": "gelap"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-6?",
+    "jawaban": "Susilo Bambang Yudhoyono"
+  },
+  {
+    "soal": "Apa ibu kota dari Australia?",
+    "jawaban": "Canberra"
+  },
+  {
+    "soal": "Siapakah tokoh kartun pemilik rumah pohon yang sangat tinggi?",
+    "jawaban": "Tarzan"
+  },
+  {
+    "soal": "Apa nama negara terbesar di dunia berdasarkan luas wilayah?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Macbeth'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'mengerti'?",
+    "jawaban": "memahami"
+  },
+  {
+    "soal": "Berapakah hasil dari 3^2?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di Amerika Selatan?",
+    "jawaban": "Sungai Amazon"
+  },
+  {
+    "soal": "Siapakah penulis novel 'To Kill a Mockingbird'?",
+    "jawaban": "Harper Lee"
+  },
+  {
+    "soal": "Apa antonim dari kata 'bahagia'?",
+    "jawaban": "sedih"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-45?",
+    "jawaban": "Donald Trump"
+  },
+  {
+    "soal": "Apa ibu kota dari Perancis?",
+    "jawaban": "Paris"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang memiliki kekuatan laba-laba?",
+    "jawaban": "Spider-Man"
+  },
+  {
+    "soal": "Apa nama negara yang memiliki lambang berupa harimau dengan pedang?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Great Gatsby'?",
+    "jawaban": "F. Scott Fitzgerald"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'mendengarkan'?",
+    "jawaban": "menguping"
+  },
+  {
+    "soal": "Berapakah hasil dari 20 ÷ 5?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil"
+  },
+  {
+    "soal": "Siapakah penulis novel '1984'?",
+    "jawaban": "George Orwell"
+  },
+  {
+    "soal": "Apa antonim dari kata 'gelisah'?",
+    "jawaban": "tenang"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-7?",
+    "jawaban": "Joko Widodo"
+  },
+  {
+    "soal": "Apa ibu kota dari Jerman?",
+    "jawaban": "Berlin"
+  },
+  {
+    "soal": "Siapakah tokoh kartun yang berdiam di dalam gua dan suka mencuri?",
+    "jawaban": "Doraemon"
+  },
+  {
+    "soal": "Apa nama hewan mamalia terbesar di dunia?",
+    "jawaban": "Paus biru"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Romeo and Juliet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'menghancurkan'?",
+    "jawaban": "membantai"
+  },
+  {
+    "soal": "Berapakah hasil dari 12 x 8?",
+    "jawaban": "96"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di Indonesia?",
+    "jawaban": "Puncak Jaya/Wilhelmus Peak/Carstensz Pyramid"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Lord of the Rings'?",
+    "jawaban": "J.R.R. Tolkien"
+  },
+  {
+    "soal": "Apa antonim dari kata 'bersih'?",
+    "jawaban": "kotor"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-46?",
+    "jawaban": "Joe Biden"
+  },
+  {
+    "soal": "Apa ibu kota dari Kanada?",
+    "jawaban": "Ottawa"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang berasal dari planet Krypton?",
+    "jawaban": "Superman"
+  },
+  {
+    "soal": "Apa nama ilmuwan yang merumuskan hukum gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Hamlet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'merasa'?",
+    "jawaban": "menganggap"
+  },
+  {
+    "soal": "Berapakah hasil dari 16 ÷ 4?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Apa nama laut terbesar di dunia?",
+    "jawaban": "Lautan Pasifik"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen"
+  },
+  {
+    "soal": "Apa antonim dari kata 'cepat'?",
+    "jawaban": "lambat"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-35?",
+    "jawaban": "John F. Kennedy"
+  },
+  {
+    "soal": "Apa ibu kota dari Inggris?",
+    "jawaban": "London"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang memiliki kekuatan kilat?",
+    "jawaban": "The Flash"
+  },
+  {
+    "soal": "Apa nama bintang terdekat dari Bumi?",
+    "jawaban": "Matahari"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Catcher in the Rye'?",
+    "jawaban": "J.D. Salinger"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'menyenangkan'?",
+    "jawaban": "mengasyikkan"
+  },
+  {
+    "soal": "Berapakah hasil dari 7^3?",
+    "jawaban": "343"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di Eropa?",
+    "jawaban": "Gunung Elbrus"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Hobbit'?",
+    "jawaban": "J.R.R. Tolkien"
+  },
+  {
+    "soal": "Apa antonim dari kata 'bahagia'?",
+    "jawaban": "sedih"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-4?",
+    "jawaban": "Abdurrahman Wahid"
+  },
+  {
+    "soal": "Apa ibu kota dari Argentina?",
+    "jawaban": "Buenos Aires"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang identitasnya adalah Tony Stark?",
+    "jawaban": "Iron Man"
+  },
+  {
+    "soal": "Apa nama planet terbesar di tata surya?",
+    "jawaban": "Yupiter"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Moby-Dick'?",
+    "jawaban": "Herman Melville"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'memukau'?",
+    "jawaban": "menakjubkan"
+  },
+  {
+    "soal": "Berapakah hasil dari 9 x 6?",
+    "jawaban": "54"
+  },
+  {
+    "soal": "Apa nama benua terkecil di dunia?",
+    "jawaban": "Australia"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Lord of the Flies'?",
+    "jawaban": "William Golding"
+  },
+  {
+    "soal": "Apa antonim dari kata 'gelap'?",
+    "jawaban": "terang"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-32?",
+    "jawaban": "Franklin D. Roosevelt"
+  },
+  {
+    "soal": "Apa ibu kota dari Turki?",
+    "jawaban": "Ankara"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang memiliki kemampuan menyusut?",
+    "jawaban": "Ant-Man"
+  },
+  {
+    "soal": "Apa nama negara terkecil di dunia berdasarkan luas wilayah?",
+    "jawaban": "Vatikan"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Macbeth'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'terkenal'?",
+    "jawaban": "populer"
+  },
+  {
+    "soal": "Berapakah hasil dari 25 ÷ 5?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Apa nama bintang terdekat dari Bumi setelah Matahari?",
+    "jawaban": "Proxima Centauri"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Jane Eyre'?",
+    "jawaban": "Charlotte Brontë"
+  },
+  {
+    "soal": "Apa antonim dari kata 'dingin'?",
+    "jawaban": "panas"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-5?",
+    "jawaban": "Megawati Soekarnoputri"
+  },
+  {
+    "soal": "Apa ibu kota dari Mesir?",
+    "jawaban": "Kairo"
+  },
+  {
+    "soal": "Siapakah tokoh kartun yang hidup di tanah Fantasia dan memiliki auryn?",
+    "jawaban": "Atreyu"
+  },
+  {
+    "soal": "Apa nama planet terdekat dari Bumi setelah Mars?",
+    "jawaban": "Venus"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Hunger Games'?",
+    "jawaban": "Suzanne Collins"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'percaya'?",
+    "jawaban": "yakin"
+  },
+  {
+    "soal": "Berapakah hasil dari 8 x 9?",
+    "jawaban": "72"
+  },
+  {
+    "soal": "Apa nama samudra terbesar di dunia?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen"
+  },
+  {
+    "soal": "Apa antonim dari kata 'lebar'?",
+    "jawaban": "sempit"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-46?",
+    "jawaban": "Joe Biden"
+  },
+  {
+    "soal": "Apa ibu kota dari Argentina?",
+    "jawaban": "Buenos Aires"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang identitasnya adalah Tony Stark?",
+    "jawaban": "Iron Man"
+  },
+  {
+    "soal": "Apa nama alat musik tiup yang terbuat dari logam dan sering digunakan dalam orkestra?",
+    "jawaban": "Trombone"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Othello'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'mengangkat'?",
+    "jawaban": "menaikkan"
+  },
+  {
+    "soal": "Berapakah hasil dari 12 x 7?",
+    "jawaban": "84"
+  },
+  {
+    "soal": "Apa nama sungai terpanjang di Amerika Utara?",
+    "jawaban": "Sungai Mississippi"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Great Gatsby'?",
+    "jawaban": "F. Scott Fitzgerald"
+  },
+  {
+    "soal": "Apa antonim dari kata 'gigih'?",
+    "jawaban": "lemah"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-3?",
+    "jawaban": "B.J. Habibie"
+  },
+  {
+    "soal": "Apa ibu kota dari Spanyol?",
+    "jawaban": "Madrid"
+  },
+  {
+    "soal": "Siapakah tokoh kartun yang tinggal di Bikini Bottom dan bekerja di Krusty Krab?",
+    "jawaban": "SpongeBob SquarePants"
+  },
+  {
+    "soal": "Siapakah penulis novel 'The Lord of the Rings'?",
+    "jawaban": "J.R.R. Tolkien"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'melihat'?",
+    "jawaban": "memandang"
+  },
+  {
+    "soal": "Berapakah hasil dari 10 ÷ 2?",
+    "jawaban": "5"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di Amerika Utara?",
+    "jawaban": "Gunung Denali"
+  },
+  {
+    "soal": "Siapakah penulis novel 'Harry Potter'?",
+    "jawaban": "J.K. Rowling"
+  },
+  {
+    "soal": "Apa antonim dari kata 'terang'?",
+    "jawaban": "gelap"
+  },
+  {
+    "soal": "Siapakah presiden Amerika Serikat ke-44?",
+    "jawaban": "Barack Obama"
+  },
+  {
+    "soal": "Apa ibu kota dari Brazil?",
+    "jawaban": "Brasília"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang mengenakan kostum berwarna merah dan memiliki kekuatan laba-laba?",
+    "jawaban": "Spider-Man"
+  },
+  {
+    "soal": "Apa nama negara terkecil di dunia berdasarkan jumlah penduduk?",
+    "jawaban": "Vatikan"
+  },
+  {
+    "soal": "Siapakah penulis drama 'Hamlet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "soal": "Apa sinonim dari kata 'meriah'?",
+    "jawaban": "ramai"
+  },
+  {
+    "soal": "Berapakah hasil dari 4^3?",
+    "jawaban": "64"
+  },
+  {
+    "soal": "Apa nama gunung tertinggi di dunia?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "soal": "Siapakah penulis novel 'To Kill a Mockingbird'?",
+    "jawaban": "Harper Lee"
+  },
+  {
+    "soal": "Apa antonim dari kata 'berani'?",
+    "jawaban": "takut"
+  },
+  {
+    "soal": "Siapakah presiden Indonesia ke-6?",
+    "jawaban": "Susilo Bambang Yudhoyono"
+  },
+  {
+    "soal": "Apa ibu kota dari Spanyol?",
+    "jawaban": "Madrid"
+  },
+  {
+    "soal": "Siapakah tokoh fiksi pahlawan super yang menggunakan baju besi canggih?",
+    "jawaban": "Iron Man"
+  },
+  {
+    "soal": "Berapakah hasil dari 7 + 5?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Berapakah hasil dari 15 - 8?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Berapakah hasil dari 6 x 4?",
+    "jawaban": "24"
+  },
+  {
+    "soal": "Berapakah hasil dari 20 ÷ 5?",
+    "jawaban": "4"
+  },
+  {
+    "soal": "Berapakah hasil dari 9^2?",
+    "jawaban": "81"
+  },
+  {
+    "soal": "Berapakah hasil dari 25 % 8?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Berapakah hasil dari (4 + 5) x 3?",
+    "jawaban": "27"
+  },
+  {
+    "soal": "Berapakah hasil dari 12 + 6 - 3?",
+    "jawaban": "15"
+  },
+  {
+    "soal": "Berapakah hasil dari 18 ÷ 2 + 5?",
+    "jawaban": "14"
+  },
+  {
+    "soal": "Berapakah hasil dari 10^0?",
+    "jawaban": "1"
+  },
+  {
+    "soal": "Planet manakah yang terdekat dengan Matahari?",
+    "jawaban": "Merkurius"
+  },
+  {
+    "soal": "Planet manakah yang paling besar di Tata Surya?",
+    "jawaban": "Yupiter"
+  },
+  {
+    "soal": "Planet manakah yang memiliki cincin yang terlihat dengan mata telanjang?",
+    "jawaban": "Saturnus"
+  },
+  {
+    "soal": "Apa nama planet yang memiliki dua bulan yang bernama Phobos dan Deimos?",
+    "jawaban": "Mars"
+  },
+  {
+    "soal": "Apa nama planet dengan suhu permukaan yang paling panas di Tata Surya?",
+    "jawaban": "Venus"
+  },
+  {
+    "soal": "Planet manakah yang disebut sebagai 'Planet Merah' karena warnanya yang mencolok?",
+    "jawaban": "Mars"
+  },
+  {
+    "soal": "Siapakah planet terkecil di Tata Surya?",
+    "jawaban": "Pluto"
+  },
+  {
+    "soal": "Planet manakah yang memiliki cincin terangkat yang disebut 'Ring E'?",
+    "jawaban": "Saturnus"
+  },
+  {
+    "soal": "Apa nama planet yang memiliki iklim paling ekstrem dengan angin yang sangat kencang?",
+    "jawaban": "Neptunus"
+  },
+  {
+    "soal": "Planet manakah yang dikenal sebagai 'Planet Biru'?",
+    "jawaban": "Neptunus"
+  },
+  {
+    "soal": "Siapakah Proklamator Kemerdekaan Indonesia?",
+    "jawaban": "Soekarno dan Mohammad Hatta"
+  },
+  {
+    "soal": "Apa yang dimaksud dengan Pancasila?",
+    "jawaban": "Pancasila adalah dasar negara dan ideologi Indonesia yang terdiri dari lima sila: Ketuhanan Yang Maha Esa, Kemanusiaan yang Adil dan Beradab, Persatuan Indonesia, Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan, dan Keadilan Sosial bagi Seluruh Rakyat Indonesia."
+  },
+  {
+    "soal": "Apa lambang negara Indonesia?",
+    "jawaban": "Garuda Pancasila"
+  },
+  {
+    "soal": "Siapakah Presiden pertama Indonesia?",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "Apa arti dari Bhinneka Tunggal Ika?",
+    "jawaban": "Bhinneka Tunggal Ika merupakan semboyan kebangsaan Indonesia yang berarti 'Berbeda-beda tetapi tetap satu' yang mengandung makna tentang persatuan dalam keanekaragaman."
+  },
+  {
+    "soal": "Apakah bahasa resmi yang digunakan di Indonesia?",
+    "jawaban": "Bahasa Indonesia"
+  },
+  {
+    "soal": "Siapakah Presiden Indonesia sekarang?",
+    "jawaban": "Joko Widodo"
+  },
+  {
+    "soal": "Apa yang dirayakan pada tanggal 17 Agustus?",
+    "jawaban": "Hari Kemerdekaan Indonesia"
+  },
+  {
+    "soal": "Apa fungsi dari Dewan Perwakilan Rakyat (DPR) dalam sistem pemerintahan Indonesia?",
+    "jawaban": "DPR merupakan lembaga legislatif yang berfungsi sebagai perwakilan rakyat dalam membuat undang-undang dan mengawasi pemerintahan."
+  },
+  {
+    "soal": "Siapakah Pahlawan Nasional Indonesia yang dikenal sebagai 'Bapak Pendidikan Nasional'?",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "soal": "Siapakah hero dengan julukan 'Kisah Dalam Sebuah Pedang' di Mobile Legends?",
+    "jawaban": "Alucard"
+  },
+  {
+    "soal": "Apa nama hero dengan role Tanker dan memiliki kemampuan 'Savage' di Mobile Legends?",
+    "jawaban": "Tigreal"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Wall Spikes' sebagai ultimate skillnya?",
+    "jawaban": "Franco"
+  },
+  {
+    "soal": "Apa role dari hero 'Fanny' dalam permainan Mobile Legends?",
+    "jawaban": "Assassin"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'Mecha Suppression' yang bisa mengurangi pertahanan lawan?",
+    "jawaban": "Bruno"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan ultimate 'Order of the Phoenix' di Mobile Legends?",
+    "jawaban": "Lunox"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Eye for an Eye' yang bisa mencuri HP lawan?",
+    "jawaban": "Dyrroth"
+  },
+  {
+    "soal": "Apa nama hero dengan role Mage yang memiliki kemampuan ultimate 'Curse of Crow'?",
+    "jawaban": "Kadita"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'Mecha Genius' yang memperkuat skill lainnya?",
+    "jawaban": "Baxia"
+  },
+  {
+    "soal": "Apa role dari hero 'Grock' dalam permainan Mobile Legends?",
+    "jawaban": "Tanker"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'We Are Angry' yang memberikan efek tambahan pada serangan dasarnya?",
+    "jawaban": "Chou"
+  },
+  {
+    "soal": "Apa nama hero dengan role Support yang memiliki kemampuan ultimate 'Chrono Dash'?",
+    "jawaban": "Kaja"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Meteor Shower' sebagai ultimate skillnya?",
+    "jawaban": "Vexana"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan ultimate 'Art of Thievery' di Mobile Legends?",
+    "jawaban": "Gusion"
+  },
+  {
+    "soal": "Apa role dari hero 'Harith' dalam permainan Mobile Legends?",
+    "jawaban": "Mage"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'Poison Sting' yang memberikan efek racun pada lawan?",
+    "jawaban": "Natalia"
+  },
+  {
+    "soal": "Apa nama hero dengan role Tanker yang memiliki kemampuan ultimate 'Wild Charge'?",
+    "jawaban": "Gatotkaca"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Horn of the Apocalypse' sebagai ultimate skillnya?",
+    "jawaban": "Khaleed"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan ultimate 'Ancestral Gift' di Mobile Legends?",
+    "jawaban": "Pharsa"
+  },
+  {
+    "soal": "Apa role dari hero 'Lesley' dalam permainan Mobile Legends?",
+    "jawaban": "Marksman"
+  },
+  {
+    "soal": "Apa nama hero dengan role Assassin yang memiliki kemampuan ultimate 'Last Insanity'?",
+    "jawaban": "Helcurt"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'Blessing of the Moon Goddess' yang memberikan efek tambahan pada serangan dasarnya?",
+    "jawaban": "Miya"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan ultimate 'Sky Guardian' di Mobile Legends?",
+    "jawaban": "Vale"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Ejector' sebagai ultimate skillnya?",
+    "jawaban": "Gatotkaca"
+  },
+  {
+    "soal": "Apa role dari hero 'Alice' dalam permainan Mobile Legends?",
+    "jawaban": "Mage"
+  },
+  {
+    "soal": "Hero apa yang memiliki skill pasif 'Camouflage' yang memungkinkan dia menjadi tak terlihat?",
+    "jawaban": "Lancelot"
+  },
+  {
+    "soal": "Apa nama hero dengan role Tanker yang memiliki kemampuan ultimate 'Time Journey'?",
+    "jawaban": "Atlas"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Bouncing Ball' sebagai ultimate skillnya?",
+    "jawaban": "Ling"
+  },
+  {
+    "soal": "Siapakah hero dengan kemampuan ultimate 'Dance of Death' di Mobile Legends?",
+    "jawaban": "Silvanna"
+  },
+  {
+    "soal": "Apa role dari hero 'Harley' dalam permainan Mobile Legends?",
+    "jawaban": "Mage"
+  },
+  {
+    "soal": "Siapakah karakter wanita dengan kemampuan 'Deadly Whisper' yang dapat mengubah posisi secara diam-diam di Free Fire?",
+    "jawaban": "Hayato"
+  },
+  {
+    "soal": "Apa nama senjata jarak dekat (melee) yang sering digunakan di Free Fire?",
+    "jawaban": "Pan"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan ultimate 'Riptide Rhythm' yang memberikan efek tambahan pada serangan teman tim?",
+    "jawaban": "Dasha"
+  },
+  {
+    "soal": "Apa nama senjata tipe shotgun yang memiliki tingkat kerusakan tinggi di Free Fire?",
+    "jawaban": "M1014"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Trapper' yang memasang perangkap untuk musuh?",
+    "jawaban": "Kapella"
+  },
+  {
+    "soal": "Apa nama senjata tipe sniper yang sering digunakan untuk menembak dari jarak jauh di Free Fire?",
+    "jawaban": "AWM"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan ultimate 'Master of All' yang memungkinkan dia berubah menjadi karakter yang berbeda?",
+    "jawaban": "Jota"
+  },
+  {
+    "soal": "Apa nama senjata tipe SMG (Submachine Gun) yang sering digunakan untuk pertempuran jarak dekat?",
+    "jawaban": "MP40"
+  },
+  {
+    "soal": "Hero apa yang memiliki kemampuan 'Deadly Rain' yang meningkatkan akurasi tembakan?",
+    "jawaban": "Wolfrahh"
+  },
+  {
+    "soal": "Apa nama senjata tipe AR (Assault Rifle) yang sering digunakan sebagai senjata serbaguna di Free Fire?",
+    "jawaban": "M4A1"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dijuluki 'Kings of K-Pop' dan memiliki lagu hits seperti 'MIC Drop' dan 'DNA'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'EXO' yang memiliki nama panggung Suho?",
+    "jawaban": "Kim Jun-myeon"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 7 anggota dan dikenal dengan lagu hits seperti 'Call Me Baby' dan 'Love Shot'?",
+    "jawaban": "EXO"
+  },
+  {
+    "soal": "Boyband Korea manakah yang memiliki fandom dengan nama 'ARMY'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 13 anggota dan dikenal dengan lagu hits seperti 'Don't Wanna Cry' dan 'Left & Right'?",
+    "jawaban": "SEVENTEEN"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'SEVENTEEN' yang memiliki nama panggung S.Coups?",
+    "jawaban": "Choi Seungcheol"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dikenal dengan lagu hits seperti 'Blood Sweat & Tears' dan 'Dope'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 7 anggota dan dikenal dengan lagu hits seperti 'Fire' dan 'Not Today'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dijuluki 'The Nation's Pick' dan memiliki lagu hits seperti 'Tempo' dan 'Love Shot'?",
+    "jawaban": "EXO"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'BTS' yang memiliki nama panggung RM?",
+    "jawaban": "Kim Nam-joon"
+  },
+  {
+    "soal": "Boyband Korea manakah yang terdiri dari 7 anggota dan dikenal dengan lagu hits seperti 'Go Go' dan 'Spring Day'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'NCT' yang memiliki nama panggung Taeyong?",
+    "jawaban": "Lee Tae-yong"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 23 anggota dan memiliki sub-unit seperti 'NCT 127', 'NCT Dream', dan 'WayV'?",
+    "jawaban": "NCT"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dijuluki 'Princes of K-Pop' dan memiliki lagu hits seperti 'Growl' dan 'Ko Ko Bop'?",
+    "jawaban": "EXO"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 9 anggota dan dikenal dengan lagu hits seperti 'Fancy' dan 'Feel Special'?",
+    "jawaban": "TWICE"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'TWICE' yang memiliki nama panggung Jihyo?",
+    "jawaban": "Park Ji-soo"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dikenal dengan lagu hits seperti 'I Need U' dan 'Fake Love'?",
+    "jawaban": "BTS"
+  },
+  {
+    "soal": "Apa nama boyband Korea yang terdiri dari 7 anggota dan dikenal dengan lagu hits seperti 'Home', 'Hero', dan 'Shoot Out'?",
+    "jawaban": "MONSTA X"
+  },
+  {
+    "soal": "Boyband Korea manakah yang dijuluki 'Monster Rookies' dan memiliki lagu hits seperti 'Crown' dan 'Puma'?",
+    "jawaban": "TXT"
+  },
+  {
+    "soal": "Siapakah leader dari boyband Korea 'TXT' yang memiliki nama panggung Soobin?",
+    "jawaban": "Choi Soo-bin"
+  },
+  {
+    "soal": "Girlband Korea manakah yang terdiri dari 4 anggota dan dikenal dengan lagu hits seperti 'Whistle' dan 'DDU-DU DDU-DU'?",
+    "jawaban": "BLACKPINK"
+  },
+  {
+    "soal": "Siapakah leader dari girlband Korea 'TWICE' yang memiliki nama panggung Jihyo?",
+    "jawaban": "Park Ji-soo"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 5 anggota dan dikenal dengan lagu hits seperti 'Wannabe' dan 'ICY'?",
+    "jawaban": "ITZY"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dijuluki 'Nation's Girl Group' dan memiliki lagu hits seperti 'Gee' dan 'Into the New World'?",
+    "jawaban": "Girls' Generation (SNSD)"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 5 anggota dan dikenal dengan lagu hits seperti 'Fingertip' dan 'Navillera'?",
+    "jawaban": "GFRIEND"
+  },
+  {
+    "soal": "Siapakah leader dari girlband Korea 'BLACKPINK' yang memiliki nama panggung Jisoo?",
+    "jawaban": "Kim Ji-soo"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dijuluki 'The Nation's Little Sister' dan memiliki lagu hits seperti 'Red Flavor' dan 'Psycho'?",
+    "jawaban": "Red Velvet"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 9 anggota dan dikenal dengan lagu hits seperti 'La Vie en Rose' dan 'Violeta'?",
+    "jawaban": "IZ*ONE"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dikenal dengan lagu hits seperti 'Like OOH-AHH' dan 'TT'?",
+    "jawaban": "TWICE"
+  },
+  {
+    "soal": "Siapakah leader dari girlband Korea 'Red Velvet' yang memiliki nama panggung Irene?",
+    "jawaban": "Bae Joo-hyun"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 4 anggota dan dikenal dengan lagu hits seperti 'Lovesick Girls' dan 'How You Like That'?",
+    "jawaban": "BLACKPINK"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dijuluki 'Maknae on Top' dan memiliki lagu hits seperti 'Lion' dan 'Cross'?",
+    "jawaban": "(G)I-DLE"
+  },
+  {
+    "soal": "Siapakah leader dari girlband Korea '(G)I-DLE' yang memiliki nama panggung Soyeon?",
+    "jawaban": "Jeon So-yeon"
+  },
+  {
+    "soal": "Girlband Korea manakah yang terdiri dari 5 anggota dan dikenal dengan lagu hits seperti 'As If It's Your Last' dan 'Kill This Love'?",
+    "jawaban": "BLACKPINK"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 6 anggota dan dikenal dengan lagu hits seperti 'Nonstop' dan 'Dingga'?",
+    "jawaban": "Oh My Girl"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dijuluki 'Monster Rookies' dan memiliki lagu hits seperti 'La Di Da' dan 'Wannabe'?",
+    "jawaban": "EVERGLOW"
+  },
+  {
+    "soal": "Siapakah leader dari girlband Korea 'EVERGLOW' yang memiliki nama panggung E:U?",
+    "jawaban": "Park Ji-won"
+  },
+  {
+    "soal": "Girlband Korea manakah yang terdiri dari 5 anggota dan dikenal dengan lagu hits seperti 'Dun Dun' dan 'Black or White'?",
+    "jawaban": "EVERGLOW"
+  },
+  {
+    "soal": "Apa nama girlband Korea yang terdiri dari 7 anggota dan dikenal dengan lagu hits seperti 'HANN' dan 'DUMDi DUMDi'?",
+    "jawaban": "((G)I-DLE"
+  },
+  {
+    "soal": "Girlband Korea manakah yang dijuluki 'Queen of K-Pop' dan memiliki lagu hits seperti 'Bad Boy' dan 'Psycho'?",
+    "jawaban": "Red Velvet"
+  },
+  {
+    "soal": "Game populer yang dikembangkan oleh Mojang dan sering disingkat sebagai 'MC', apa judul lengkap dari game ini?",
+    "jawaban": "Minecraft"
+  },
+  {
+    "soal": "Game battle royale yang dikembangkan oleh Epic Games dan memiliki mode permainan 'Solo', 'Duo', dan 'Squad', apa judul game ini?",
+    "jawaban": "Fortnite"
+  },
+  {
+    "soal": "Game mobile yang dikembangkan oleh Supercell dan menghadirkan pertempuran antar pemain dalam mode 3 vs 3, apa judul game ini?",
+    "jawaban": "Brawl Stars"
+  },
+  {
+    "soal": "Game bergenre MOBA yang dikembangkan oleh Riot Games dan memiliki mode permainan 'Summoner's Rift', apa judul game ini?",
+    "jawaban": "League of Legends"
+  },
+  {
+    "soal": "Game petualangan aksi yang dikembangkan oleh Naughty Dog dan memiliki karakter utama bernama Nathan Drake, apa judul game ini?",
+    "jawaban": "Uncharted"
+  },
+  {
+    "soal": "Game aksi-petualangan yang dikembangkan oleh Rockstar Games dan memiliki karakter utama bernama Arthur Morgan, apa judul game ini?",
+    "jawaban": "Red Dead Redemption 2"
+  },
+  {
+    "soal": "Game bergenre RPG yang dikembangkan oleh CD Projekt Red dan memiliki karakter utama bernama Geralt of Rivia, apa judul game ini?",
+    "jawaban": "The Witcher 3: Wild Hunt"
+  },
+  {
+    "soal": "Game bergenre battle royale yang dikembangkan oleh PUBG Corporation dan pertama kali dikenal sebagai mod untuk game ARMA 2, apa judul game ini?",
+    "jawaban": "PlayerUnknown's Battlegrounds (PUBG)"
+  },
+  {
+    "soal": "Game bergenre sandbox yang dikembangkan oleh Rockstar Games dan memiliki mode permainan 'Story Mode' dan 'Online', apa judul game ini?",
+    "jawaban": "Grand Theft Auto V (GTA V)"
+  },
+  {
+    "soal": "Game bergenre horor bertema bertahan hidup yang dikembangkan oleh Frictional Games, apa judul game ini?",
+    "jawaban": "Amnesia: The Dark Descent"
+  },
+  {
+    "soal": "Game populer yang dikembangkan oleh Blizzard Entertainment dan termasuk dalam genre first-person shooter, apa judul game ini?",
+    "jawaban": "Overwatch"
+  },
+  {
+    "soal": "Game RPG klasik yang dikembangkan oleh Bethesda Game Studios dan memiliki dunia terbuka dengan tema post-apocalyptic, apa judul game ini?",
+    "jawaban": "Fallout 4"
+  },
+  {
+    "soal": "Game action-adventure yang dikembangkan oleh Santa Monica Studio dan mengisahkan petualangan dewa perang Kratos, apa judul game ini?",
+    "jawaban": "God of War"
+  },
+  {
+    "soal": "Game bergenre sandbox survival yang dikembangkan oleh Re-Logic, apa judul game ini?",
+    "jawaban": "Terraria"
+  },
+  {
+    "soal": "Game aksi-petualangan yang dikembangkan oleh Ubisoft Montreal dan memiliki setting dunia terbuka dengan tema pejuang siber, apa judul game ini?",
+    "jawaban": "Watch Dogs"
+  },
+  {
+    "soal": "Game petualangan horor yang dikembangkan oleh Capcom dan menghadirkan karakter ikonik Leon Kennedy dan Jill Valentine, apa judul game ini?",
+    "jawaban": "Resident Evil 2"
+  },
+  {
+    "soal": "Game simulasi kehidupan yang dikembangkan oleh Maxis dan diterbitkan oleh Electronic Arts, apa judul game ini?",
+    "jawaban": "The Sims 4"
+  },
+  {
+    "soal": "Game platformer aksi yang dikembangkan oleh Studio MDHR dan dikenal dengan gaya visualnya yang klasik, apa judul game ini?",
+    "jawaban": "Cuphead"
+  },
+  {
+    "soal": "Game survival horror yang dikembangkan oleh Red Barrels dan mengisahkan petualangan jurnalis yang menyelidiki tempat terpencil, apa judul game ini?",
+    "jawaban": "Outlast"
+  },
+  {
+    "soal": "Game bergenre battle royale yang dikembangkan oleh Respawn Entertainment dan menghadirkan perangkat permainan ala sci-fi, apa judul game ini?",
+    "jawaban": "Apex Legends"
+  },
+  {
+    "soal": "Apa yang disebut sebagai 'paru-paru dunia' karena menghasilkan oksigen dan berperan penting dalam regulasi iklim global?",
+    "jawaban": "Hutan hujan tropis"
+  },
+  {
+    "soal": "Apa nama fenomena alam yang menyebabkan terjadinya peristiwa banjir besar di wilayah-wilayah tertentu?",
+    "jawaban": "Pembentukan gletser"
+  },
+  {
+    "soal": "Apa yang disebut sebagai puncak tertinggi di dunia, mencapai ketinggian lebih dari 8.000 meter di atas permukaan laut?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "soal": "Apa yang disebut sebagai lereng curam batuan yang membentuk tebing yang tinggi di sisi laut?",
+    "jawaban": "Klip"
+  },
+  {
+    "soal": "Apa nama ekosistem yang dikenal sebagai lahan basah yang berfungsi sebagai habitat bagi berbagai spesies unik seperti aligator dan burung bangau?",
+    "jawaban": "Sawah"
+  },
+  {
+    "soal": "Apa nama lautan terbesar di bumi, mencakup sekitar 30% dari total permukaan bumi?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "soal": "Apa yang disebut sebagai area yang sangat kering dengan curah hujan yang rendah dan didominasi oleh pasir dan batu?",
+    "jawaban": "Padang pasir"
+  },
+  {
+    "soal": "Apa nama fenomena alam yang menyebabkan terbentuknya pelangi di langit setelah hujan?",
+    "jawaban": "Sinar matahari yang dipantulkan oleh tetesan air hujan"
+  },
+  {
+    "soal": "Apa yang disebut sebagai pergerakan lapisan-lapisan bumi yang menyebabkan terjadinya gempa bumi?",
+    "jawaban": "Pergerakan lempeng tektonik"
+  },
+  {
+    "soal": "Apa nama hewan mamalia terbesar di dunia yang hidup di lautan?",
+    "jawaban": "Paus biru"
+  },
+  {
+    "soal": "Apa yang disebut sebagai perasaan intens dan romantis yang melibatkan kasih sayang dan ketertarikan terhadap seseorang?",
+    "jawaban": "Cinta"
+  },
+  {
+    "soal": "Apa istilah yang digunakan untuk menggambarkan perasaan mencintai seseorang tanpa ada rasa balasan?",
+    "jawaban": "Cinta sepihak"
+  },
+  {
+    "soal": "Apa nama hormon yang sering dijuluki 'hormon cinta' karena berperan dalam mengatur perasaan cinta?",
+    "jawaban": "Oksitosin"
+  },
+  {
+    "soal": "Apa yang disebut sebagai perasaan cemburu karena takut kehilangan orang yang dicintai kepada orang lain?",
+    "jawaban": "Rasa cemburu"
+  },
+  {
+    "soal": "Apa istilah yang digunakan untuk menyebut perasaan cinta yang bersemu dan tidak tulus?",
+    "jawaban": "Cinta palsu"
+  },
+  {
+    "soal": "Apa nama hari perayaan di berbagai negara yang khusus diperuntukkan untuk merayakan cinta dan kasih sayang?",
+    "jawaban": "Hari Valentine"
+  },
+  {
+    "soal": "Apa istilah yang digunakan untuk menggambarkan perasaan jatuh cinta yang datang begitu saja secara tiba-tiba?",
+    "jawaban": "Cinta datang tak terduga"
+  },
+  {
+    "soal": "Apa yang disebut sebagai perasaan ingin bersama seseorang tanpa memedulikan halangan dan rintangan?",
+    "jawaban": "Cinta tanpa pamrih"
+  },
+  {
+    "soal": "Apa istilah yang digunakan untuk menggambarkan perasaan cinta yang menyatu dengan pikiran dan perasaan?",
+    "jawaban": "Cinta sejati"
+  },
+  {
+    "soal": "Apa yang disebut sebagai perasaan cinta yang kembali muncul setelah pernah merasakan patah hati?",
+    "jawaban": "Cinta yang terluka"
+  },
+  {
+    "soal": "Apa nama alat musik tiup yang terbuat dari logam dan sering digunakan dalam orkestra?",
+    "jawaban": "Trompet"
+  },
+  {
+    "soal": "Alat musik gesek yang memiliki empat senar dan sering digunakan dalam musik klasik, apa nama alat musik ini?",
+    "jawaban": "Biola"
+  },
+  {
+    "soal": "Alat musik perkusi yang terdiri dari serangkaian lonceng kecil yang diikat pada pita dan dipukul untuk menghasilkan bunyi, apa nama alat musik ini?",
+    "jawaban": "Angklung"
+  },
+  {
+    "soal": "Apa nama alat musik tiup kayu yang memiliki suara lembut dan sering digunakan dalam orkestra?",
+    "jawaban": "Klarinet"
+  },
+  {
+    "soal": "Alat musik gesek yang memiliki enam senar dan sering digunakan dalam musik rock dan pop, apa nama alat musik ini?",
+    "jawaban": "Gitar listrik"
+  },
+  {
+    "soal": "Alat musik dawai yang terdiri dari 88 tombol dan memiliki pedalkan, apa nama alat musik ini?",
+    "jawaban": "Piano"
+  },
+  {
+    "soal": "Apa nama alat musik perkusi yang terbuat dari kulit dan biasa dimainkan dengan tangan?",
+    "jawaban": "Djembe"
+  },
+  {
+    "soal": "Alat musik tiup yang terbuat dari kayu dan biasanya dimainkan dalam ansambel musik tradisional Jawa, apa nama alat musik ini?",
+    "jawaban": "Suling"
+  },
+  {
+    "soal": "Apa nama alat musik tiup yang terdiri dari pipa bambu dan sering digunakan dalam musik tradisional Bali?",
+    "jawaban": "Gender Wayang"
+  },
+  {
+    "soal": "Alat musik gesek yang memiliki lima senar dan sering digunakan dalam musik tradisional Jepang, apa nama alat musik ini?",
+    "jawaban": "Koto"
+  },
+  {
+    "soal": "Berapa hasil dari 5 + 3?",
+    "jawaban": "8"
+  },
+  {
+    "soal": "Hitunglah 7 + 2?",
+    "jawaban": "9"
+  },
+  {
+    "soal": "Tuliskan angka lima puluh enam dalam bentuk angka?",
+    "jawaban": "56"
+  },
+  {
+    "soal": "Apa hasil dari 12 - 5?",
+    "jawaban": "7"
+  },
+  {
+    "soal": "Berapakah hasil dari 3 x 4?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Tuliskan angka sembilan puluh delapan dalam bentuk angka?",
+    "jawaban": "98"
+  },
+  {
+    "soal": "Apakah 20 lebih besar dari 15?",
+    "jawaban": "Ya"
+  },
+  {
+    "soal": "Hitunglah 10 + 5 - 3?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Berapakah hasil dari 6 x 2?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Apa hasil dari 100 - 50?",
+    "jawaban": "50"
+  },
+  {
+    "soal": "Berapakah hasil dari 8 + 6?",
+    "jawaban": "14"
+  },
+  {
+    "soal": "Hitunglah 9 + 3?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Tuliskan angka tujuh puluh lima dalam bentuk angka?",
+    "jawaban": "75"
+  },
+  {
+    "soal": "Apa hasil dari 20 - 8?",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Berapakah hasil dari 4 x 5?",
+    "jawaban": "20"
+  },
+  {
+    "soal": "Tuliskan angka sembilan puluh dalam bentuk angka?",
+    "jawaban": "90"
+  },
+  {
+    "soal": "Apakah 25 lebih besar dari 30?",
+    "jawaban": "Tidak"
+  },
+  {
+    "soal": "Hitunglah 15 + 5 - 4?",
+    "jawaban": "16"
+  },
+  {
+    "soal": "Berapakah hasil dari 7 x 3?",
+    "jawaban": "21"
+  },
+  {
+    "soal": "Apa hasil dari 50 - 20?",
+    "jawaban": "30"
+  },
+  {
+    "soal": "Apa arti dari kata 'book' dalam bahasa Indonesia?",
+    "jawaban": "Buku"
+  },
+  {
+    "soal": "Terjemahkan kata 'apple' ke dalam bahasa Indonesia?",
+    "jawaban": "Apel"
+  },
+  {
+    "soal": "Apa arti dari kata 'cat' dalam bahasa Indonesia?",
+    "jawaban": "Kucing"
+  },
+  {
+    "soal": "Terjemahkan kata 'house' ke dalam bahasa Indonesia?",
+    "jawaban": "Rumah"
+  },
+  {
+    "soal": "Apa arti dari kata 'tree' dalam bahasa Indonesia?",
+    "jawaban": "Pohon"
+  },
+  {
+    "soal": "Terjemahkan kata 'school' ke dalam bahasa Indonesia?",
+    "jawaban": "Sekolah"
+  },
+  {
+    "soal": "Apa arti dari kata 'sun' dalam bahasa Indonesia?",
+    "jawaban": "Matahari"
+  },
+  {
+    "soal": "Terjemahkan kata 'flower' ke dalam bahasa Indonesia?",
+    "jawaban": "Bunga"
+  },
+  {
+    "soal": "Apa arti dari kata 'car' dalam bahasa Indonesia?",
+    "jawaban": "Mobil"
+  },
+  {
+    "soal": "Terjemahkan kata 'bird' ke dalam bahasa Indonesia?",
+    "jawaban": "Burung"
+  },
+  {
+    "soal": "Item yang memberikan tambahan serangan fisik dan kecepatan serangan adalah?",
+    "jawaban": "Blade of Despair"
+  },
+  {
+    "soal": "Item yang meningkatkan serangan fisik dan lifesteal adalah?",
+    "jawaban": "Haas's Claws"
+  },
+  {
+    "soal": "Item yang memberikan tambahan serangan fisik dan kecepatan gerak adalah?",
+    "jawaban": "Swift Boots"
+  },
+  {
+    "soal": "Item yang meningkatkan serangan fisik dan critical chance adalah?",
+    "jawaban": "Scarlet Phantom"
+  },
+  {
+    "soal": "Item yang memberikan tambahan serangan fisik dan armor penetration adalah?",
+    "jawaban": "Blade of the Heptaseas"
+  },
+  {
+    "soal": "Item yang meningkatkan serangan fisik dan menambah efek bakar adalah?",
+    "jawaban": "Berserker's Fury"
+  },
+  {
+    "soal": "Item yang memberikan tambahan serangan fisik dan mengurangi cooldown skill adalah?",
+    "jawaban": "Hunter Strike"
+  },
+  {
+    "soal": "Item yang meningkatkan serangan fisik dan kecepatan serangan secara bertahap adalah?",
+    "jawaban": "Endless Battle"
+  },
+  {
+    "soal": "Item yang memberikan tambahan serangan fisik dan tambahan efek slow adalah?",
+    "jawaban": "Corrosion Scythe"
+  },
+  {
+    "soal": "Item yang meningkatkan serangan fisik dan efek true damage adalah?",
+    "jawaban": "Blade of the 7 Seas"
   }
-] 
+]
